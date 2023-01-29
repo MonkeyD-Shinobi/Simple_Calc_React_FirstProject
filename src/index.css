@@ -10,11 +10,15 @@ body {
 .App {
   margin: 20px;
   display: flex;
-  /* align-items: center; */
-  /* justify-content: center; */
+  /* align-items: center;
+  justify-content: center; */
   flex-direction: column;
   border: 2px solid lightcyan;
   box-shadow: 5px;
+  /* ADDING MARGINS */
+  margin-left: 200px;
+  margin-right: 200px;
+
 }
 
 .tag{
@@ -26,4 +30,6 @@ body {
 .butt{
   display: flex;
   justify-content: space-evenly;
+  margin-left: 200px;
+  margin-right: 200px;
 }
